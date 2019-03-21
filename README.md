@@ -1,2 +1,0 @@
-# ac05RA1802195
-AC05:GIT + GITHUB + Azure
